@@ -1,0 +1,133 @@
+* {margin:0;padding:0}
+body {background-color: #8F8585;font-family:Century Gothic, Arial;font-size:14px;line-height:22px;}
+h1, h2, h3, h4, h5, h6 {font-size: 35px;
+line-height: 35px;;font-weight:normal;margin-bottom:15px}
+a{text-decoration:none;color:#fff}
+a:hover {text-decoration:none;}
+
+
+section{margin:0 auto; width:1100px;background-color:#fff}
+header{background: url(../img/banner1.jpg) no-repeat;
+padding: 25px;
+margin-bottom: 20px;}
+.header_top{overflow:hidden;}
+
+.logo{}
+.logo img{width: 25%;
+float: left;}
+.menu{float: right;margin-top:15px;margin-bottom:10px}
+nav{}
+nav ul{list-style: none;
+margin: 0;
+padding: 0;}
+nav ul li{float:left;padding-right: 5px;}
+nav ul li a{
+	display: block;
+	padding: 10px 15px;
+	text-transform: uppercase;
+	color: #fff;
+	background-color: #000;
+	border-radius: 15px;
+	width: 70px;
+	text-align: center;
+}
+nav ul li a:hover{background:red;}
+.header_bottom{margin-top:40px;color:#fff}
+.header_content{width: 40%;float: left;}
+.header_content h2{}
+.header_content p{margin-bottom: 30px;}
+.header_content a{padding: 14px;
+background: #000;
+color: #fff;
+border-radius: 19px;}
+.header_content a i{font-size:30px}
+.header_content a:hover{background:red;}
+.header_img{}
+.header_img img{margin-bottom: -30px;margin-left: 240px;}
+.app_future{text-align: center;
+width: 900px;
+margin: 0 auto;}
+.app_future h3{text-transform:uppercase}
+.app_future p{}
+.box_area{text-align: center;
+width: 990px;
+margin: 30px auto;
+overflow: hidden;}
+.box{width: 300px;
+float: left;
+padding: 15px;
+text-align: center;}
+.box a{}
+.box a img{border-radius: 50px;
+width: 100px;
+height: 100px;}
+.box h2{}
+.box p{}
+.promo_area{ background:url(../img/promo.jpg) no-repeat;}
+.promo{width:400px;padding:70px; 30px}
+.promo p{margin-bottom:20px}
+.promo span{color:red}
+.promo a{color: #fff;
+background: red;
+padding: 11px;
+border-radius: 24px;}
+
+.promo h2{}
+.promo p{}
+.about_me{text-align: center;
+width: 990px;
+margin: 90px auto;vs}
+.about_me h5{font-size: 20px;
+line-height: 25px;}
+.about_me p{}
+.about_me i{}
+footer{background: #5C5757;
+color: #fff;}
+.footer_top{overflow: hidden;
+padding: 20px;}
+.footer_top h2{display: inline-block;
+border: 1px dashed;
+padding: 5px;}
+.footer_menu{width: 337px;
+float: left;
+padding: 8px;}
+.footer_menu{}
+.footer_menu h4{width: 337px;
+float: left;
+padding: 8px;}
+.footer_menu ul{list-style: none;
+margin: 0;
+padding: 0;}
+.footer_menu ul li{padding: 10px;}
+.footer_menu ul li a i{font-size: 30px;
+color: #fff;
+background: red;
+width: 70px;
+float: left;
+height: 40px;
+padding: 1px;
+text-align: center;
+margin-right: 2px;}
+.footer_menu ul li a:hover{}
+.footer_menu a img{width: 50px;
+height: 50px;
+float: left;
+padding: 5px;}
+.footer_bottom{text-align: center;
+background: #000;
+padding: 10px;}
+footer{background: #5C5757;
+color: #fff;}
+
+
+
+
+
+
+
+
+
+
+
+
+
